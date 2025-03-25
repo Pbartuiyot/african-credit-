@@ -1,1 +1,1 @@
-# african-credit-
+# african-credit-scoring challange
